@@ -24,7 +24,9 @@
  <div>  
     
   <a href="https://www.instagram.com/kevinraafael/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height= 32 width =32     target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/kevin-rafael-38620b194/"><img height= 32 width =32 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank"></a>
+   <a href = "kevin.rafael@ufms.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/kevin-rafael-38620b194/"><img height= 32 width =32 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  
   ![Snake animation](https://github.com/kevinraafael/kevinraafael/blob/output/github-contribution-grid-snake.svg)
   
  </div>
